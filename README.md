@@ -55,8 +55,8 @@ Here are some projects I've worked on:
 ---
 
 ## 📫 Get in Touch
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: (add later if you have)  
+- 📧 Email:
+- 💼 LinkedIn:
 
 ---
 
