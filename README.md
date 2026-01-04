@@ -1,21 +1,21 @@
-# Hi 👋, I'm Umbu
+# Hi , I'm Umbu
 
-💻 Software Developer | Web & Mobile Enthusiast  
-🌱 Passionate about building clean, functional, and scalable applications
+Software Developer | Web & Mobile Enthusiast  
+Passionate about building clean, functional, and scalable applications
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 I'm a developer who enjoys learning new technologies and turning ideas into real applications.  
 Currently focusing on **web development, mobile apps, and backend systems**.
 
-- 🔭 Interested in real-world projects  
-- 🌱 Continuously learning and improving  
-- 🤝 Open to collaboration and opportunities  
+- Interested in real-world projects  
+- Continuously learning and improving  
+- Open to collaboration and opportunities  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Languages & Frameworks**
 - PHP (Laravel)
 - Dart (Flutter)
@@ -33,22 +33,27 @@ Currently focusing on **web development, mobile apps, and backend systems**.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 Here are some projects I've worked on:
 
-- 📌 **[Project Name]**  
-  Short description of what the project does and what problem it solves.  
+- **Owaste**  
+  A Flutter-based mobile application inspired by ride-hailing services like Gojek, designed specifically for on-demand waste pickup and management.  
+  *Tech:* Dart, Flutter
+
+- **Website Perpustakaan**  
+  A web-based library management system that allows administrators to manage book data and member data using full CRUD functionality.  
   *Tech:* Laravel, MySQL
 
-- 📌 **[Project Name]**  
-  Short description of the project.  
-  *Tech:* Flutter
+- **Kardio Vaskular Detection**  
+  A machine learning project focused on detecting cardiovascular disease based on health-related data to assist early diagnosis.  
+  *Tech:* Python, Machine Learning
 
-> 👉 Check my repositories for more projects and experiments.
+
+> Check my repositories for more projects and experiments.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmbuMFA&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmbuMFA&layout=compact)
 
